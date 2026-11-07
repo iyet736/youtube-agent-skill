@@ -1,4 +1,4 @@
-h# The YouTube agent skill
+https://github.com/Jakeschincariol/youtube-agent-skillh# The YouTube agent skill
 
 Eleven Claude skills that run a YouTube channel. Free, MIT, no signup, no API key, nothing to
 connect.
